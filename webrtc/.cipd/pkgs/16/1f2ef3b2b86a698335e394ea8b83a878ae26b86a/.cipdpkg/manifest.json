@@ -1,0 +1,10 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/com_android_support_preference_v14",
+  "files": [
+    {
+      "name": "preference-v14-27.0.0.aar",
+      "size": 68822
+    }
+  ]
+}

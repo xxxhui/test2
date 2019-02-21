@@ -1,0 +1,10 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_tools_bundletool",
+  "files": [
+    {
+      "name": "bundletool-all-0.8.0.jar",
+      "size": 38230949
+    }
+  ]
+}

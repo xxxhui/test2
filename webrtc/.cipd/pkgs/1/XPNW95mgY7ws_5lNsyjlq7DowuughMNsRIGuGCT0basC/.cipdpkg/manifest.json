@@ -1,0 +1,16 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_build_tools/aapt2",
+  "files": [
+    {
+      "name": "aapt2",
+      "size": 3026332,
+      "executable": true
+    },
+    {
+      "name": "lib64/libc++.so",
+      "size": 1134829,
+      "executable": true
+    }
+  ]
+}
